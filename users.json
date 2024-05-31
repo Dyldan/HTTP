@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "user_id": "583c3ac3f38e84297c002545",
+            "name": "Dylan"
+        },
+        {
+            "user_id": "583c5484cb79a5fe593425a9",
+            "name": "Patrick"
+        },
+        {
+            "user_id": "583c57672c7686377d2f66c9",
+            "name": "Jessie"
+        },
+        {
+            "user_id": "5840b954da0529cd293d76fe",
+            "name": "Katie"
+        },
+        {
+            "user_id": "583c3ac3f38e84297c002546",
+            "name": "Travis"
+        },
+        {
+            "user_id": "583c3ac3f38e84297c002547",
+            "name": "CJ"
+        }
+    ]
+}
